@@ -46,5 +46,4 @@ Son derste, geriye değer döndüren ve döndürmeyen metotlar ile çalıştım.
 
 ---
 
-Bu dersler sayesinde C# diline dair temel kavramları uygulamalı olarak öğrenme fırsatı buldum. İlerleyen derslerde bu bilgileri daha da geliştireceğim! 🌟
-
+Bu dersler boyunca C# dilinin temel yapı taşlarını öğrenme ve uygulama fırsatı buldum. İlerleyen derslerde bu bilgileri derinleştirerek kendimi daha da geliştirmeyi hedefliyorum! 🚀
