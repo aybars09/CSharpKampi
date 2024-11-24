@@ -45,5 +45,12 @@ Bu derste, `foreach` döngüsünü daha yakından inceleyip bir sınav sistemi s
 Son derste, geriye değer döndüren ve döndürmeyen metotlar ile çalıştım. Kullanıcıdan aldığım verileri işleyip sonuçları döndüren fonksiyonlar oluşturdum. Bu ders ile kodlarımı daha modüler ve tekrar kullanılabilir hale getirmeyi öğrendim. 🎗️
 
 ---
+✨ **Ders 9: Veritabanı Destekli Ürün ve Kategori Bilgi Sistemi
+Bu projede, veritabanı bağlantısı kurarak veri çekmeyi ve kullanıcı girişine bağlı olarak bilgileri listelemeyi öğrendim. Kullanıcıdan gelen seçimlere göre bir veritabanı tablosundaki bilgileri ekranda gösteren bir uygulama geliştirdim. SqlConnection ve SqlCommand sınıflarını kullanarak veritabanına bağlandım ve SQL sorguları çalıştırarak veritabanıyla etkileşim sağladım. Bu deneyim, veritabanı mantığını anlamama ve veri işleme süreçlerini daha etkili bir şekilde uygulamama olanak tanıdı. 💾
+
+---
+📝 **Ders 10: Menü Sipariş Yönetim Paneli
+Bu projede, bir veritabanıyla temel CRUD (Oluşturma, Okuma, Güncelleme, Silme) işlemlerini uyguladım. SQL bağlantısını kullanarak ürün ve kategori ekleme, güncelleme, listeleme ve silme işlemlerini gerçekleştirdim. Bu sayede SQL komutlarını daha etkili bir şekilde kullanmayı öğrenirken, dinamik bir veri yönetimi sistemi oluşturmayı başardım. Uygulama, kullanıcıdan gelen verilere göre veritabanına kayıt yaparak, bilgi güncelleme ve sorgulama süreçlerini öğrendim. 📊
+
 
 Bu dersler boyunca C# dilinin temel yapı taşlarını öğrenme ve uygulama fırsatı buldum. İlerleyen derslerde bu bilgileri derinleştirerek kendimi daha da geliştirmeyi hedefliyorum! 🚀
