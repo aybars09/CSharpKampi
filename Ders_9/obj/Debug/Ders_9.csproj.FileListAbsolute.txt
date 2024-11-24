@@ -1,0 +1,7 @@
+C:\Users\aybar\source\repos\CsharpEgitimkampders1\Ders_9\bin\Debug\Ders_9.exe.config
+C:\Users\aybar\source\repos\CsharpEgitimkampders1\Ders_9\bin\Debug\Ders_9.exe
+C:\Users\aybar\source\repos\CsharpEgitimkampders1\Ders_9\bin\Debug\Ders_9.pdb
+C:\Users\aybar\source\repos\CsharpEgitimkampders1\Ders_9\obj\Debug\Ders_9.csproj.AssemblyReference.cache
+C:\Users\aybar\source\repos\CsharpEgitimkampders1\Ders_9\obj\Debug\Ders_9.csproj.CoreCompileInputs.cache
+C:\Users\aybar\source\repos\CsharpEgitimkampders1\Ders_9\obj\Debug\Ders_9.exe
+C:\Users\aybar\source\repos\CsharpEgitimkampders1\Ders_9\obj\Debug\Ders_9.pdb
